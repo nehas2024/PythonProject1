@@ -43,7 +43,7 @@ n,m =np.shape(x)
 print(n)
 print(m)
 
-New1 =np.array([1,2,3,4,15,16,7,8,9,10,11,22])
+New1 =np.array([1,2,13,4,15,16,7,8,9,10,11,22])
 New2 = New1.reshape(4,3)
 print(New2)
 print(New2[:,])
